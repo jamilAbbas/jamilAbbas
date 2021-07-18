@@ -1,5 +1,5 @@
 ---
-title: JamilAbbas
+title: Jamil Abbas
 date: '2021-07-18'
 spoiler: Code Styled Readme Template
 categories: ["code-styled", "all-profile"]
@@ -33,10 +33,7 @@ const jamilAbbas = {
                         workExperiences: [{companyName:"Engin Technologies", role:"Software Engineer"},
                                           {companyName:"Phaedra Solutions", role:"Software Engineer"},
                                            {companyName:"Agaicode Technologies", role:"Software Engineer"},
-                                          ]
-
-
-                                           
+                                          ]                                
                       },
 }
 ```
