@@ -26,7 +26,7 @@ githubUsername: 'jamilAbbas'
 const jamilAbbas = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML, CSS, Java, C# ],
-  tools: [React, Redux, Node, GraphQL, Storybook, Styled-Components, Jest, React-Testing-library,  docker, ansible , bamboo , devOps  ],
+  tools: [React, Redux, Node, GraphQL, Storybook, Styled-Components, Jest, ReactTestingLibrary,  docker, ansible , bamboo , devOps  ],
   architecture: ["microfrontend", "miroservices","event-driven", "design system pattern", "behavior-driven-development", "test-driven-development"],
   techCommunities: {
                         speaker: "English/Urdu",
