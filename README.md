@@ -27,7 +27,7 @@ const jamilAbbas = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML, CSS, Java, C# ],
   tools: [React, Redux, Node, GraphQL, Storybook, Styled-Components, Jest, ReactTestingLibrary,  docker, ansible , bamboo , devOps basics  ],
-  architecture: ["microfrontend", "miroservices","event-driven"],
+  architecture: ["Monolithic","microfrontend", "miroservices","event-driven"],
   techCommunities: {
                         speaker: "English/Urdu",
                         workExperiences: [{companyName:"Engin Technologies", role:"Software Engineer"},
